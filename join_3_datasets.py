@@ -1,19 +1,29 @@
- 
 # importing pandas 
 import pandas as pd 
 import glob 
 import os 
+
+df_Acq = pd.read_csv("acq_data.csv")
+df_LO = pd.read_csv("layoffs.csv")
+df_stock = pd.read_csv("maang_stock_prices_by_quarter.csv")
+
+merge_One = pd.merge(df_Acq, df_LO, on="Company", how="inner")
+merged_df = pd.merge(merge_One, df_stock, on="Company", how="inner")
+merged_df.to_csv("C:/Users/cassi/Desktop/dataMining/dataMining/out.csv", index=False)
   
 # merging two csv files 
-df = pd.concat( 
-    map(pd.read_csv, ['acquisition_data.csv', 'layoffs.csv', 'maang_stock_prices_by_quarter.csv']), ignore_index=True) 
-print(df) 
+# df = pd.concat( 
+#     map(pd.read_csv, ['acq_data.csv', 'layoffs.csv', 'maang_stock_prices_by_quarter.csv'])) 
+# print(df) 
 
-file_paths = ['acquisition_data.csv', 'layoffs.csv', 'maang_stock_prices_by_quarter.csv']
 
+# # merging the files 
+# joined_files = os.path.join("/", "*.csv") 
   
-# Finally, the files are joined 
-df = pd.concat(map(pd.read_csv, file_paths), ignore_index=True) 
-print(df)
-
-df.to_csv('output_file.csv', index=False)
+# # A list of all joined files is returned 
+# joined_list = glob.glob(joined_files) 
+  
+# # Finally, the files are joined 
+# df = pd.concat(map(pd.read_csv, joined_list), ignore_index=True) 
+# print(df)
+# df.to_csv("C:/Users/cassi/Desktop/dataMining/dataMining/out.csv", index=False)

@@ -1,4 +1,4 @@
-company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
+Company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
 Google,SF Bay Area,Consumer,1000,0.548303,1/10/2024,Post-IPO,United States,26000000
 Amazon,Seattle,Retail,?,?,1/10/2024,Post-IPO,United States,108000000
 Amazon,Seattle,Retail,?,?,11/17/2023,Post-IPO,United States,108000000
