@@ -6,16 +6,14 @@ import os
   
 # merging two csv files 
 df = pd.concat( 
-    map(pd.read_csv, ['mydata.csv', 'mydata1.csv']), ignore_index=True) 
+    map(pd.read_csv, ['acquisition_data.csv', 'layoffs.csv', 'maang_stock_prices_by_quarter.csv']), ignore_index=True) 
 print(df) 
 
+file_paths = ['acquisition_data.csv', 'layoffs.csv', 'maang_stock_prices_by_quarter.csv']
 
-# merging the files 
-joined_files = os.path.join("/home", "mydata*.csv") 
-  
-# A list of all joined files is returned 
-joined_list = glob.glob(joined_files) 
   
 # Finally, the files are joined 
-df = pd.concat(map(pd.read_csv, joined_list), ignore_index=True) 
+df = pd.concat(map(pd.read_csv, file_paths), ignore_index=True) 
 print(df)
+
+df.to_csv('output_file.csv', index=False)
