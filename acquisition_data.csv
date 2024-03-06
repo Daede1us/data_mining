@@ -1,0 +1,886 @@
+ID,Parent Company,Acquisition Year,Acquisition Month,Acquired Company,Business,Country,Acquisition Price
+1,Apple,1988,Mar,Network Innovations,Software,United States,?
+2,Apple,1988,Jun,Orion Network Systems,Computer Software,United States,?
+3,Apple,1988,Jun,Styleware,Computer software,United States,?
+4,Apple,1988,Jul,Nashoba Systems,Computer software,United States,?
+5,Apple,1989,Jan,Coral Software,Computer software,United States,?
+6,Apple,1997,Feb,NeXT,Unix-like hardware and software platform,United States,"404,000,000.00"
+7,Apple,1997,Sep,Power Computing Corporation,Macintosh clones,United States,"110,000,000.00"
+8,Apple,1999,Jan,Xemplar Education,Software,United Kingdom,"4,926,000.00"
+9,Apple,1999,Nov,Raycer Graphics,Computer graphic chips,United States,"15,000,000.00"
+10,Apple,2000,Jan,NetSelector,Internet software,United States,?
+11,Apple,2000,Apr,Astarte-DVD Authoring Software,Software,Germany,?
+12,Apple,2000,June,SoundJam MP,Software,United States,?
+13,Apple,2001,?,Bluefish Labs,Productivity software,United States,?
+14,Apple,2001,May,bluebuzz,Internet service provider (ISP),United States,?
+15,Apple,2001,Jul,Spruce Technologies,Graphics software,United States,"14,900,000.00"
+16,Apple,2001,Dec,PowerSchool,Online info systems services,United States,"66,100,000.00"
+17,Apple,2002,Feb,Nothing Real,Special effects software,United States,"15,000,000.00"
+18,Apple,2002,Apr,Zayante,FireWire chips and software,United States,"13,000,000.00"
+19,Apple,2002,Jun,Silicon Grail Corp-Chalice,Digital effects software,United States,"20,000,000.00"
+20,Apple,2002,Jun,Propel Software,internet and network optimization for wireless carriers,United States,?
+21,Apple,2002,Jun,Prismo Graphics,Special-effects titling software for film and video,United States,"20,000,000.00"
+22,Apple,2002,Jul,Emagic,Music production software,Germany,"30,000,000.00"
+23,Apple,2005,Mar,SchemaSoft,Software,Canada,?
+24,Apple,2005,Apr,FingerWorks,Gesture recognition company,United States,?
+25,Apple,2006,Oct,Silicon Color,Software,United States,?
+26,Apple,2006,Dec,Proximity,Software,Australia,?
+27,Apple,2008,Apr,P.A. Semi,Semiconductors,United States,"278,000,000.00"
+28,Apple,2009,Jul,Placebase,Maps,United States,?
+29,Apple,2009,Dec,Lala.com,Music streaming,United States,"17,000,000.00"
+30,Apple,2010,Jan,Quattro Wireless,Mobile advertising,United States,"275,000,000.00"
+31,Apple,2010,Apr,Intrinsity,Semiconductors,United States,"121,000,000.00"
+32,Apple,2010,Apr,Siri,Voice control software,United States,?
+33,Apple,2010,May,Gipsy Moth Studios,Application Regionalization Firm,United States,"12,000,000.00"
+34,Apple,2010,Jul,Poly9,Web-based mapping,Canada,?
+35,Apple,2010,Sep,Polar Rose,Facial recognition,Sweden,"29,000,000.00"
+36,Apple,2010,Sep,IMSense,High-dynamic-range (HDR) photography,United Kingdom,?
+37,Apple,2011,Aug,C3 Technologies,3D mapping,Sweden,"267,000,000.00"
+38,Apple,2011,Dec,Anobit,Flash memory,Israel,"500,000,000.00"
+39,Apple,2012,Feb,Chomp,App search engine,United States,"50,000,000.00"
+40,Apple,2012,Jun,Redmatica,Audio,Italy,?
+41,Apple,2012,Jul,AuthenTec,PC and mobile security products,United States,"356,000,000.00"
+42,Apple,2012,Sep,Particle,HTML5 Web app firm,United States,?
+43,Apple,2013,?,Novauris Technologies,Speech recognition,United Kingdom,?
+44,Apple,2013,?,OttoCat,Search engine,United States,?
+45,Apple,2013,Mar,WiFiSlam,Indoor location,United States,"20,000,000.00"
+46,Apple,2013,Jul,Locationary,Maps,Canada,?
+47,Apple,2013,Jul,HopStop.com,Maps,United States,?
+48,Apple,2013,Aug,Passif Semiconductor,Semiconductors,United States,?
+49,Apple,2013,Aug,Matcha,Media discovery app,United States,?
+50,Apple,2013,Aug,Embark,Maps,United States,?
+51,Apple,2013,Aug,AlgoTrim,Mobile data compression[citation needed],Sweden,?
+52,Apple,2013,Oct,Cue,Personal assistant,United States,"50,000,000.00"
+53,Apple,2013,Nov,PrimeSense,Structured-light 3D scanners,Israel,"360,000,000.00"
+54,Apple,2013,Dec,Topsy,Analytics,United States,"200,000,000.00"
+55,Apple,2013,Dec,BroadMap,Maps,United States,?
+56,Apple,2013,Dec,Catch.com,Software,United States,?
+57,Apple,2013,Dec,Acunu,Database analytics,United States,?
+58,Apple,2014,Jan,SnappyLabs,Photography software,United States,?
+59,Apple,2014,Feb,Burstly,Software testing,United States,?
+60,Apple,2014,May,LuxVue Technology,microLED displays,United States,?
+61,Apple,2014,Jun,Spotsetter,Social search engine,United States,?
+62,Apple,2014,Jun,Swell,Music streaming,United States,"30,000,000.00"
+63,Apple,2014,Jun,BookLamp,Book analytics,United States,?
+64,Apple,2014,Aug,Beats Electronics,"Headphones, music streaming (Beats Music)",United States,?
+65,Apple,2014,Sep,Prss,Digital magazine,Netherlands,?
+66,Apple,2014,?,Dryft,On-Screen Keyboard,United States,?
+67,Apple,2015,Jan,Camel Audio,Audio plug-ins and sound libraries,United Kingdom,?
+68,Apple,2015,Jan,Semetric,Music analytics,United Kingdom,"50,000,000.00"
+69,Apple,2015,Mar,FoundationDB,Database,United States,?
+70,Apple,2015,Apr,LinX,Camera,Israel,"20,000,000.00"
+71,Apple,2015,Apr,Coherent Navigation,GPS,United States,?
+72,Apple,2015,May,Metaio,Augmented reality,Germany,?
+73,Apple,2015,Sep,Mapsense,Mapping visualization and data collection,United States,"27,500,000.00"
+74,Apple,2015,Sep,VocalIQ,Speech technology,Switzerland,?
+75,Apple,2015,Sep,Perceptio,"Machine learning, Image recognition",United States,?
+76,Apple,2015,Nov,Faceshift,Realtime Motion Capture,United States,?
+77,Apple,2016,Jan,Emotient,Emotion recognition,United States,?
+78,Apple,2016,Jan,LearnSprout,Education technology,United States,?
+79,Apple,2016,Jan,Flyby Media,Augmented reality,United States,?
+80,Apple,2016,Feb,LegbaCore,Platform security,United States,?
+81,Apple,2016,Aug,Turi,Machine learning,United States,"200,000,000.00"
+82,Apple,2016,Aug,Gliimpse,Personal health info collection company,United States,?
+83,Apple,2016,Sep,Tuplejump,Machine learning,India,?
+84,Apple,2016,Dec,Indoor.io,Indoor mapping and navigation,Finland,?
+85,Apple,2017,Mar,Workflow,Automation and scripting app,United States,?
+86,Apple,2017,May,Beddit,Sleep tracking hardware,Finland,?
+87,Apple,2017,May,Lattice Data,Artificial intelligence,United States,"200,000,000.00"
+88,Apple,2017,Jun,SensoMotoric Instruments,Eye tracking hardware and software,Germany,?
+89,Apple,2017,Sep,Vrvana,Augmented reality head-mounted display,Canada,"30,000,000.00"
+90,Apple,2017,Sep,Regaind,Computer vision,France,?
+91,Apple,2017,Oct,init.ai,Messaging assistant,United States,?
+92,Apple,2017,Oct,PowerbyProxi,Wireless charging,New Zealand,?
+93,Apple,2017,Nov,InVisage Technologies,Quantum dot-based image sensors,United States,?
+94,Apple,2017,Dec,Pop Up Archive,tools for searching digital spoken words,United States,?
+95,Apple,2017,Dec,Spektral,"Computer vision, real-time editing",Denmark,"30,000,000.00"
+96,Apple,2018,?,Laserlike,Machine learning,United States,?
+97,Apple,2018,?,Silk Labs,"Artificial Intelligence, home monitoring",United States,?
+98,Apple,2018,?,Tueo Health,Asthma monitoring,United States,?
+99,Apple,2017,Dec,Silicon Valley Data Science,"Data science, data engineering, analytics",United States,?
+100,Apple,2018,Jan,Buddybuild,"Continuous integration, debugging, and testing for mobile apps.",Canada,?
+101,Apple,2018,Mar,Texture,Digital magazine subscription service,United States,?
+102,Apple,2018,Aug,Akonia Holographics,Lenses for augmented reality glasses,United States,?
+103,Apple,2018,Sep,Shazam,Music and Image recognition,United Kingdom,"400,000,000.00"
+104,Apple,2018,Oct,Dialog Semiconductor (portions),Chip development,United Kingdom,"600,000,000.00"
+105,Apple,2018,Dec,Platoon,Artist development,United Kingdom,?
+106,Apple,2019,Feb,PullString,Speech technology,United States,?
+107,Apple,2019,Mar,Stamplay,Backend workflow development,Italy,"5,600,000.00"
+108,Apple,2019,Jun,Drive.ai,Autonomous vehicles,United States,?
+109,Apple,2019,Jul,Intels smartphone modem business,Smartphone modems,United Kingdom,?
+110,Apple,2019,Oct,IKinema,Motion capture,United Kingdom,?
+111,Apple,2019,Dec,Spectral Edge,Low-light photography,United Kingdom,?
+112,Apple,2020,Jan,Xnor.ai,"Edge computing, artificial intelligence",United States,"200,000,000.00"
+113,Apple,2020,Sep,Scout FM,Podcast A.I.,United States,?
+114,Apple,2020,Mar,Dark Sky,Weather forecasting and app,United States,?
+115,Apple,2020,Apr,Voysis,Artificial intelligence/voice assistant,Ireland,?
+116,Apple,2020,May,NextVR,Virtual reality events,United States,"100,000,000.00"
+117,Apple,2020,Jun,Fleetsmith,Mobile device management,United States,?
+118,Apple,2020,Jul,Mobeewave,Payments startup,Canada,"100,000,000.00"
+119,Apple,2020,Aug,Camerai,AR,Israel,?
+120,Apple,2020,Aug,Spaces,VR startup,United States,?
+121,Apple,2021,Jan,Curious AI,Core AI startup,Finland,?
+122,Apple,2021,Aug,Primephonic,classical music streaming service,Netherlands,?
+123,Apple,2022,Feb,AI Music,Music production,United States,?
+124,Apple,2022,Mar,Credit Kudos inc,Fintech,United Kingdom,?
+125,Apple,2023,Jun,Mira Labs,Augmented reality,United States,?
+126,Apple,2023,Sep,BIS Records,Record label,Sweden,?
+127,Amazon,1998,Apr,Bookpages,?,United Kingdom,"55,000,000.00"
+128,Amazon,1998,Apr,Telebook,?,Germany,"55,000,000.00"
+129,Amazon,1998,Apr,IMDb,?,United Kingdom,"55,000,000.00"
+130,Amazon,1998,Aug,Junglee,?,United States,"250,000,000.00"
+131,Amazon,1998,Aug,PlanetAll,?,United States,"280,000,000.00"
+132,Amazon,1999,Apr,LiveBid.com,?,United States,"300,000,000.00"
+133,Amazon,1999,Apr,Accept.com,?,United States,"101,700,000.00"
+134,Amazon,1999,Apr,Alexa Internet,?,United States,"250,000,000.00"
+135,Amazon,1999,Apr,e-Niche Incorporated,?,United States,?
+136,Amazon,1999,Oct,Convergence Corporation,?,United States,"23,000,000.00"
+137,Amazon,1999,Nov,Tool Crib of the North (Online and Catalog Sales Division),?,United States,?
+138,Amazon,1999,Nov,Back to Basics Toys,?,United States,?
+139,Amazon,1999,Dec,Leep Technology Inc.,?,United States,?
+140,Amazon,1999,?,MindCorps Incorporated,?,United States,?
+141,Amazon,2001,Dec,Egghead Software,?,United States,"6,100,000.00"
+142,Amazon,2001,Dec,OurHouse.com,?,United States,?
+143,Amazon,2004,Aug,Joyo.com,?,China,"75,000,000.00"
+144,Amazon,2005,Apr,BookSurge,?,United States,?
+145,Amazon,2005,Apr,Mobipocket,?,France,?
+146,Amazon,2005,Jul,CustomFlix,?,United States,?
+147,Amazon,2005,?,smallparts.com,?,United States,?
+148,Amazon,2006,Feb,Shopbop,?,United States,?
+149,Amazon,2006,Oct,TextPayMe,?,United States,"3,000,000.00"
+150,Amazon,2007,May,Digital Photography Review,?,United Kingdom,?
+151,Amazon,2007,May,Brilliance Audio,?,United States,?
+152,Amazon,2008,Jan,Withoutabox,?,United States,?
+153,Amazon,2008,Jan,Audible,?,United States,"300,000,000.00"
+154,Amazon,2008,Jun,Fabric.com,?,United States,?
+155,Amazon,2008,Aug,AbeBooks,?,Canada,?
+156,Amazon,2008,Aug,Shelfari,?,United States,?
+157,Amazon,2008,Oct,Reflexive Entertainment,?,United States,?
+158,Amazon,2008,Dec,Box Office Mojo,?,United States,?
+159,Amazon,2009,Apr,Lexcycle,?,United States,?
+160,Amazon,2009,Jun,SnapTell,?,United States,?
+161,Amazon,2009,Nov,Zappos,?,United States,"1,200,000,000.00"
+162,Amazon,2010,Feb,Touchco,?,United States,?
+163,Amazon,2010,Jul,Woot,?,United States,"110,000,000.00"
+164,Amazon,2010,Sep,Amie Street,?,United States,?
+165,Amazon,2010,Oct,BuyVIP,?,Spain,"100,000,000.00"
+166,Amazon,2010,Nov,Quidsi,?,United States,"545,000,000.00"
+167,Amazon,2010,Nov,Toby Press,?,United States,?
+168,Amazon,2011,Jan,LoveFilm,?,United Kingdom,"312,000,000.00"
+169,Amazon,2011,Jul,The Book Depository,?,United Kingdom,?
+170,Amazon,2011,Jul,Pushbutton,?,United Kingdom,?
+171,Amazon,2011,Sep,Yap,?,United States,?
+172,Amazon,2011,Sep,Double Helix Games,?,United States,?
+173,Amazon,2012,Feb,Teachstreet,?,United States,?
+174,Amazon,2012,Mar,Kiva Systems,?,United States,"775,000,000.00"
+175,Amazon,2012,Apr,Evi,?,United Kingdom,"26,000,000.00"
+176,Amazon,2012,Apr,Avalon Books,?,United States,?
+177,Amazon,2012,Jul,UpNext,?,United States,?
+178,Amazon,2013,Jan,IVONA Software,?,Poland,?
+179,Amazon,2013,Mar,Goodreads,?,United States,?
+180,Amazon,2013,May,Liquavista,?,Netherlands,?
+181,Amazon,2013,Oct,"TenMarks Education, Inc.",?,United States,?
+182,Amazon,2014,Apr,ComiXology,?,United States,?
+183,Amazon,2014,May,Amiato,?,United States,?
+184,Amazon,2014,Aug,Twitch Interactive,?,United States,"970,000,000.00"
+185,Amazon,2014,Aug,Rooftop Media,?,United States,?
+186,Amazon,2014,Dec,GoodGame,?,United States,?
+187,Amazon,2015,Jan,Annapurna Labs,?,Israel,"350,000,000.00"
+188,Amazon,2015,Mar,2lemetry,?,United States,?
+189,Amazon,2015,Apr,Shoefitr,?,United States,?
+190,Amazon,2015,Apr,ClusterK,?,United States,"35,000,000.00"
+191,Amazon,2015,Jul,AppThwack,?,United States,?
+192,Amazon,2015,Sep,Elemental Technologies,?,United States,"500,000,000.00"
+193,Amazon,2015,Sep,Safaba Translation Systems,?,United States,?
+194,Amazon,2015,Sep,Biba Systems,?,United States,?
+195,Amazon,2015,Dec,Orbeus,?,United States,?
+196,Amazon,2016,Jan,Colis Privé,?,France,?
+197,Amazon,2016,Feb,NICE,?,Italy,?
+198,Amazon,2016,Feb,Emvantage Payments,?,India,?
+199,Amazon,2016,Jul,Cloud9 IDE,?,United States,?
+200,Amazon,2016,Aug,"Curse, Inc.",?,United States,?
+201,Amazon,2016,Oct,Westland,?,India,?
+202,Amazon,2016,Nov,Partpic,?,United States,?
+203,Amazon,2017,Jan,harvest.ai,?,United States,"20,000,000.00"
+204,Amazon,2017,Mar,Thinkbox Software,?,United States,?
+205,Amazon,2017,Mar,Do.com,?,United States,?
+206,Amazon,2017,Jun,Whole Foods Market,?,United States,"13,700,000,000.00"
+207,Amazon,2017,Jul,Souq.com,?,United Arab Emirates,"580,000,000.00"
+208,Amazon,2017,Jul,Graphiq,?,United States,"50,000,000.00"
+209,Amazon,2017,Jul,GameSparks,?,United Kingdom,"10,000,000.00"
+210,Amazon,2017,Sep,Wing.ae,?,United Arab Emirates,?
+211,Amazon,2017,Oct,Body Labs,?,United States,"60,000,000.00"
+212,Amazon,2017,Nov,Goo Technologies,?,United States,?
+213,Amazon,2017,Nov,Dispatch,?,United States,?
+214,Amazon,2017,Dec,Blink Home,?,United States,"90,000,000.00"
+215,Amazon,2018,Jan,Sqrrl,?,United States,"40,000,000.00"
+216,Amazon,2018,Feb,Ring,?,United States,"839,000,000.00"
+217,Amazon,2018,Jun,PillPack,?,United States,"753,000,000.00"
+218,Amazon,2018,Aug,Tapzo,?,India,"40,000,000.00"
+219,Amazon,2019,Jan,CloudEndure,?,Israel,"250,000,000.00"
+220,Amazon,2019,Jan,TSO Logic,?,Canada,?
+221,Amazon,2019,Feb,Eero,?,United States,"97,000,000.00"
+222,Amazon,2019,Apr,Canvas Technology,?,United States,?
+223,Amazon,2019,May,Sizmek Ad Server and Sizmek Dynamic Creative Optimization,?,United States,?
+224,Amazon,2019,Jun,Bebo,?,United States,"25,000,000.00"
+225,Amazon,2019,Jul,E8 Storage,?,Israel,?
+226,Amazon,2019,Sep,IGDB,?,United States,?
+227,Amazon,2019,Sep,INLT,?,United States,?
+228,Amazon,2020,Jun,Zoox,?,United States,"1,200,000,000.00"
+229,Amazon,2020,Dec,Wondery,?,United States,?
+230,Amazon,2021,Jan,Umbra 3D,?,Finland,?
+231,Amazon,2021,May,Dbbest,?,United States,?
+232,Amazon,2021,May,Metro-Goldwyn-Mayer,?,United States,"8,450,000,000.00"
+233,Amazon,2021,Jun,Art19,?,United States,?
+234,Amazon,2021,Jun,Wickr,?,United States,?
+235,Amazon,2021,Nov,Veeqo,?,United Kingdom,?
+236,Amazon,2022,Mar,Strio.AI,?,United States,?
+237,Amazon,2022,Apr,GlowRoad,?,India,?
+238,Amazon,2022,Jul,One Medical,?,United States,"3,900,000,000.00"
+239,Amazon,2022,Sep,Cloostermans,?,Belgium,?
+240,Amazon,2022,Nov,Spirit.ai,?,United Kingdom,?
+241,Amazon,2023,Aug,Fig,?,United States,?
+242,Google,2001,Feb,DejaNews,Usenet,United States,?
+243,Google,2001,Sep,Outride,Web search engine,United States,?
+244,Google,2003,Feb,Pyra Labs,Weblog software,United States,?
+245,Google,2003,Apr,Neotonic Software,Customer relationship management,United States,?
+246,Google,2003,Apr,Applied Semantics,Online advertising,United States,"102,000,000.00"
+247,Google,2003,Sep,Kaltix,Web search engine,United States,?
+248,Google,2003,Oct,Sprinks,Online advertising,United States,?
+249,Google,2003,Oct,Genius Labs,Blogging,United States,?
+250,Google,2004,May,Ignite Logic,HTML editor,United States,?
+251,Google,2004,Jul,Picasa,Image organizer,United States,?
+252,Google,2004,Sep,ZipDash,Traffic analysis,United States,?
+253,Google,2004,Oct,Where2,Map analysis,Australia,?
+254,Google,2004,Oct,Keyhole,Map analysis,United States,?
+255,Google,2005,Mar,Urchin Software Corporation,Web analytics,United States,?
+256,Google,2005,May,Dodgeball,Social networking service,United States,?
+257,Google,2005,Jul,Akwan Information Technologies,Search engines,Brazil,?
+258,Google,2005,Jul,Reqwireless,Mobile browser,Canada,?
+259,Google,2005,Aug,Android,Mobile operating system,United States,"50,000,000.00"
+260,Google,2005,Nov,Skia,Graphics library,United States,?
+261,Google,2005,Dec,Phatbits,Widget engine,United States,?
+262,Google,2005,Dec,allPAY,Mobile software,Germany,?
+263,Google,2005,Dec,bruNET,Mobile software,Germany,?
+264,Google,2006,Jan,dMarc Broadcasting,Advertising,United States,"102,000,000.00"
+265,Google,2006,Feb,Measure Map,Weblog software,United States,?
+266,Google,2006,Mar,Upstartle,Word processor,United States,?
+267,Google,2006,Mar,@Last Software,3D modeling software,United States,?
+268,Google,2006,Apr,Orion,Web search engine,Australia,?
+269,Google,2006,Jun,2Web Technologies,Online spreadsheets,United States,?
+270,Google,2006,Aug,Neven Vision Germany,Computer vision,Germany,?
+271,Google,2006,Oct,YouTube,Video sharing,United States,"1,650,000,000.00"
+272,Google,2006,Oct,JotSpot,Web application,United States,?
+273,Google,2006,Dec,Endoxon,Mapping,Switzerland,"28,000,000.00"
+274,Google,2007,Feb,Adscape,In-game advertising,United States,"23,000,000.00"
+275,Google,2007,Mar,Trendalyzer,Statistical software,Sweden,?
+276,Google,2007,May,Crusix,Social networking service,United States,?
+277,Google,2007,Apr,Tonic Systems,Presentation program,United States,?
+278,Google,2007,Apr,Marratech,Videoconferencing,Sweden,"15,000,000.00"
+279,Google,2007,Apr,DoubleClick,Online advertising,United States,"3,100,000,000.00"
+280,Google,2007,May,GreenBorder,Computer security,United States,?
+281,Google,2007,Jun,Panoramio,Photo sharing,Spain,?
+282,Google,2007,Jun,FeedBurner,Web feed,United States,"100,000,000.00"
+283,Google,2007,Jun,PeakStream,Parallel processing,United States,?
+284,Google,2007,Jun,Zenter,Presentation program,United States,?
+285,Google,2007,Jul,GrandCentral,Voice over IP,United States,"45,000,000.00"
+286,Google,2007,Jul,ImageAmerica,Aerial photography,United States,?
+287,Google,2007,Jul,Postini,Communications security,United States,"625,000,000.00"
+288,Google,2007,Sep,Zingku,Social networking service,United States,?
+289,Google,2007,Oct,Jaiku,Microblogging,Finland,?
+290,Google,2008,Jul,Omnisio,Online video,United States,"15,000,000.00"
+291,Google,2008,Sep,TNC,Weblog software,South Korea,?
+292,Google,2009,Aug,On2,Video compression,United States,"133,000,000.00"
+293,Google,2009,Sep,reCAPTCHA,Security,United States,?
+294,Google,2009,Nov,AdMob,Mobile advertising,United States,?
+295,Google,2009,Nov,Gizmo5,Voice over IP,United States,"30,000,000.00"
+296,Google,2009,Nov,Teracent,Online advertising,United States,?
+297,Google,2009,Dec,AppJet,Collaborative real-time editor,United States,?
+298,Google,2010,Feb,Aardvark,Social search,United States,"50,000,000.00"
+299,Google,2010,Feb,reMail,Email search,United States,?
+300,Google,2010,Mar,Picnik,Photo editing,United States,?
+301,Google,2010,Mar,DocVerse,Microsoft Office files sharing site,United States,"25,000,000.00"
+302,Google,2010,Apr,Episodic,Online video platform start-up,United States,?
+303,Google,2010,Apr,Plink,Visual search engine,Ireland,?
+304,Google,2010,Apr,Agnilux,Server CPUs,United States,?
+305,Google,2010,Apr,LabPixies,Gadgets,Israel,?
+306,Google,2010,Apr,BumpTop,Desktop environment,Canada,"30,000,000.00"
+307,Google,2010,May,Global IP Solutions,Video and audio compression,United States,"68,200,000.00"
+308,Google,2010,May,Simplify Media,Music streaming,United States,?
+309,Google,2010,May,Ruba.com,Travel,United States,?
+310,Google,2010,Jun,Invite Media,Advertising,United States,"81,000,000.00"
+311,Google,2010,Jul,Metaweb,Semantic search,United States,?
+312,Google,2010,Aug,Zetawire,"Mobile payment, NFC",Canada,?
+313,Google,2010,Aug,Instantiations,Java/Eclipse/AJAX developer tools,United States,?
+314,Google,2010,Aug,Slide.com,Social gaming,United States,"228,000,000.00"
+315,Google,2010,Aug,Jambool,Social Gold payment,United States,"70,000,000.00"
+316,Google,2010,Aug,Like.com,Visual search engine,United States,"100,000,000.00"
+317,Google,2010,Aug,Angstro,Social networking service,United States,?
+318,Google,2010,Aug,SocialDeck,Social gaming,Canada,?
+319,Google,2010,Sep,Quiksee,Online video,Israel,"10,000,000.00"
+320,Google,2010,Sep,Plannr,Schedule management,United States,?
+321,Google,2010,Oct,BlindType,Touch typing,Greece,?
+322,Google,2010,Dec,Phonetic Arts,Speech synthesis,United Kingdom,?
+323,Google,2010,Dec,Widevine Technologies,DRM,United States,?
+324,Google,2011,Jan,eBook Technologies,E-book,United States,?
+325,Google,2011,Jan,SayNow,Voice recognition,United States,?
+326,Google,2011,Mar,Zynamics,Security,Germany,?
+327,Google,2011,Mar,BeatThatQuote.com,Price comparison service,United Kingdom,"65,000,000.00"
+328,Google,2011,Mar,Next New Networks,Online video,United States,?
+329,Google,2011,Mar,Green Parrot Pictures,Digital video,Ireland,?
+330,Google,2011,Apr,PushLife,Service provider,Canada,"25,000,000.00"
+331,Google,2011,Apr,ITA Software,Travel technology,United States,"676,000,000.00"
+332,Google,2011,Apr,TalkBin,Mobile software,United States,?
+333,Google,2011,May,Sparkbuy,Product search,United States,?
+334,Google,2011,Jun,PostRank,Social media analytics service,Canada,?
+335,Google,2011,Jun,Admeld,Online advertising,United States,"400,000,000.00"
+336,Google,2011,Jun,SageTV,Media center,United States,?
+337,Google,2011,Jul,Punchd,Loyalty program,United States,?
+338,Google,2011,Jul,Fridge,Social groups,United States,?
+339,Google,2011,Jul,PittPatt,Facial recognition system,United States,?
+340,Google,2011,Aug,Dealmap,One deal a day service,United States,?
+341,Google,2011,Aug,Motorola Mobility,Mobile device manufacturer,United States,?
+342,Google,2011,Sep,Zave Networks,Digital coupons,United States,?
+343,Google,2011,Sep,Zagat,Restaurant reviews,United States,"151,000,000.00"
+344,Google,2011,Sep,DailyDeal,One deal a day service,Germany,"114,000,000.00"
+345,Google,2011,Oct,SocialGrapple,Social media analytics service,Canada,?
+346,Google,2011,Nov,Apture,Instantaneous search,United States,?
+347,Google,2011,Nov,Katango,Social circle organization,United States,?
+348,Google,2011,Dec,RightsFlow,Music rights management,United States,?
+349,Google,2011,Dec,Clever Sense,Local recommendations app,United States,?
+350,Google,2012,Mar,Milk,Software company,United States,?
+351,Google,2012,Apr,TxVia,Online payments,United States,?
+352,Google,2012,Jun,Meebo,Social networking,United States,"100,000,000.00"
+353,Google,2012,Jun,Quickoffice,Mobile office suite,United States,?
+354,Google,2012,Jul,Sparrow,Mobile apps,France,"25,000,000.00"
+355,Google,2012,?,WIMM Labs,Android-powered smartwatches,United States,?
+356,Google,2012,Aug,Wildfire Interactive,Social media marketing,United States,"450,000,000.00"
+357,Google,2012,Sep,VirusTotal.com,Security,Spain,?
+358,Google,2012,Sep,Nik Software,Photography,United States,?
+359,Google,2012,Oct,Viewdle,Facial recognition,Ukraine,"45,000,000.00"
+360,Google,2012,Nov,Incentive Targeting,Digital coupons,United States,?
+361,Google,2012,Nov,BufferBox,Package delivery,Canada,"17,000,000.00"
+362,Google,2013,Feb,Channel Intelligence,Product ecommerce,United States,"125,000,000.00"
+363,Google,2013,Mar,DNNresearch,Deep Neural Networks,Canada,"44,000,000.00"
+364,Google,2013,Mar,Talaria Technologies,Cloud computing,United States,?
+365,Google,2013,Apr,Behavio,Social Prediction,United States,?
+366,Google,2013,Apr,Wavii,Natural Language Processing,United States,"30,000,000.00"
+367,Google,2013,May,Makani Power,Airborne wind turbines,United States,?
+368,Google,2013,Jun,Waze,GPS navigation software,Israel,"966,000,000.00"
+369,Google,2013,Sep,Bump,Mobile software,United States,?
+370,Google,2013,Oct,Flutter,Gesture recognition technology,United States,"40,000,000.00"
+371,Google,2013,Oct,FlexyCore,DroidBooster App for Android,France,"23,000,000.00"
+372,Google,2013,Dec,Schaft,"Robotics, humanoid robots",Japan,?
+373,Google,2013,Dec,Industrial Perception,"Robotic arms, computer vision",United States,?
+374,Google,2013,Dec,Redwood Robotics,Robotic arms,United States,?
+375,Google,2013,Dec,Meka Robotics,Robots,United States,?
+376,Google,2013,Dec,Holomni,Robotic wheels,United States,?
+377,Google,2013,Dec,Bot & Dolly,Robotic cameras,United States,?
+378,Google,2013,Dec,Autofuss,Ads and Design,United States,?
+379,Google,2014,Jan,Bitspin,Timely App for Android,Switzerland,?
+380,Google,2014,Jan,Nest Labs,Home automation,United States,?
+381,Google,2014,Jan,Impermium,Internet security,United States,?
+382,Google,2014,Jan,DeepMind Technologies,Artificial intelligence,United Kingdom,"625,000,000.00"
+383,Google,2014,Feb,SlickLogin,Internet Security,Israel,?
+384,Google,2014,Feb,spider.io,Anti-click fraud,United Kingdom,?
+385,Google,2014,Mar,GreenThrottle,Gadgets,United States,?
+386,Google,2014,Apr,Titan Aerospace,High-altitude UAVs,United States,?
+387,Google,2014,May,Rangespan,?,United Kingdom,?
+388,Google,2014,May,Adometry,Online advertising attribution,United States,?
+389,Google,2014,May,Appetas,Restaurant website creation,United States,?
+390,Google,2014,May,Stackdriver,Cloud computing,United States,?
+391,Google,2014,May,MyEnergy,Online energy usage monitoring,United States,?
+392,Google,2014,May,Quest Visual,Augmented reality,United States,?
+393,Google,2014,May,Divide,Mobile device management,United States,?
+394,Google,2014,Jun,Skybox Imaging,Satellite,United States,"500,000,000.00"
+395,Google,2014,Jun,mDialog,Online advertising,Canada,?
+396,Google,2014,Jun,Alpental Technologies,Wireless,United States,?
+397,Google,2014,Jun,Dropcam,Home monitoring,United States,"555,000,000.00"
+398,Google,2014,Jun,Appurify,Automated application testing,United States,?
+399,Google,2014,Jul,Songza,Music streaming,United States,?
+400,Google,2014,Jul,drawElements,Graphics compatibility testing,Finland,?
+401,Google,2014,Aug,Emu,IM client,United States,?
+402,Google,2014,Aug,Director,Mobile video,United States,?
+403,Google,2014,Aug,Jetpac,"Artificial intelligence, image recognition",United States,?
+404,Google,2014,Aug,Gecko Design,Mechanical design,United States,?
+405,Google,2014,Aug,Zync Render,Cloud-based visual effects software,United States,?
+406,Google,2014,Sep,Lift Labs,Liftware,United States,?
+407,Google,2014,Sep,Polar,Social polling,United States,?
+408,Google,2014,Oct,Firebase,Application development platform,United States,?
+409,Google,2014,Oct,Dark Blue Labs & Vision Factory,Artificial intelligence,United Kingdom,"10,000,000.00"
+410,Google,2014,Oct,Revolv,Home automation,United States,?
+411,Google,2014,Nov,RelativeWave,Mobile software prototyping,United States,?
+412,Google,2014,Dec,Vidmaker,Video editing,United States,?
+413,Google,2015,Feb,Launchpad Toys,Child-friendly apps,United States,?
+414,Google,2015,Feb,Odysee,Multimedia sharing and storage,United States,?
+415,Google,2015,Feb,Softcard,Mobile payments,United States,?
+416,Google,2015,Feb,Red Hot Labs,App advertising and discovery,United States,?
+417,Google,2015,Apr,Thrive Audio,Surround sound technology,Ireland,?
+418,Google,2015,Apr,Skillman & Hackett,Virtual reality software,United States,?
+419,Google,2015,May,Timeful,Mobile software,United States,?
+420,Google,2015,May,Pulse.io,Mobile app optimizer,United States,?
+421,Google,2015,Jul,Pixate,Mobile software prototyping,United States,?
+422,Google,2015,Sep,Oyster,E-book subscriptions,United States,?
+423,Google,2015,Sep,Jibe Mobile,Rich Communication Services,United States,?
+424,Google,2015,Jun,Agawi,Mobile application streaming,United States,?
+425,Google,2015,Oct,Digisfera,360-degree photography,Portugal,?
+426,Google,2015,Nov,Fly Labs,Video editing,United States,?
+427,Google,2015,Nov,bebop,Cloud software,United States,"380,000,000.00"
+428,Google,2016,Feb,BandPage,Platform for musicians,United States,?
+429,Google,2016,Feb,Pie,Enterprise communications,Singapore,?
+430,Google,2016,May,Synergyse,Interactive learning platform,Canada,?
+431,Google,2016,Jun,Webpass,Internet service provider,United States,?
+432,Google,2016,Jul,Moodstocks,Image recognition,France,?
+433,Google,2016,Jul,Anvato,Cloud-based video services,United States,?
+434,Google,2016,Jul,Kifi,Link management,United States,?
+435,Google,2016,Jul,LaunchKit,Mobile developer tools,United States,?
+436,Google,2016,Aug,Orbitera,Cloud software,United States,"100,000,000.00"
+437,Google,2016,Sep,Apigee,API management and predictive analytics,United States,"625,000,000.00"
+438,Google,2016,Sep,Urban Engines,Location-based analytics,United States,?
+439,Google,2016,Sep,API.AI,Natural language processing,United States,?
+440,Google,2016,Oct,FameBit,Branded content,United States,?
+441,Google,2016,Oct,Eyefluence,"Eye tracking, virtual reality",United States,?
+442,Google,2016,Nov,LeapDroid,Android Emulator,United States,?
+443,Google,2016,Nov,Qwiklabs,Cloud-based hands-on training platform,United States,?
+444,Google,2016,Dec,Cronologics,Smartwatches,United States,?
+445,Google,2017,Jan,Limes Audio,Voice communication,Sweden,?
+446,Google,2017,Jan,Fabric,Mobile app platform,United States,?
+447,Google,2017,Mar,Kaggle,Data science,United States,?
+448,Google,2017,Mar,AppBridge,Productivity suite,United States,?
+449,Google,2017,May,Owlchemy Labs,Virtual reality studio,United States,?
+450,Google,2017,Jul,Halli Labs,Artificial intelligence,India,?
+451,Google,2017,Aug,AIMatter,Computer vision,Belarus,?
+452,Google,2017,Sep,HTC (portions),Talent and intellectual property licenses,Taiwan,?
+453,Google,2017,Sep,Bitium,Single sign-on and identity management,United States,?
+454,Google,2017,Oct,Relay Media,AMP converter,United States,?
+455,Google,2017,Oct,60db,Podcasts,United States,?
+456,Google,2018,Jan,Redux,Audio,United Kingdom,?
+457,Google,2018,Mar,Tenor,GIF image search,United States,?
+458,Google,2018,May,Velostrata,Cloud migration,Israel,?
+459,Google,2018,May,Cask,"Big data, Hadoop",United States,?
+460,Google,2018,Aug,GraphicsFuzz,GPU reliability,United Kingdom,?
+461,Google,2018,Sep,Senosis,Health monitoring,United States,?
+462,Google,2018,Oct,Onward,"Machine learning, natural language processing",United States,?
+463,Google,2018,Nov,Workbench Education,Education technology,United States,?
+464,Google,2018,Dec,Sigmoid Labs,Indian Railways Train Tracking,India,"40,000,000.00"
+465,Google,2018,Dec,DevOps Research and Assessment,Research and Assessment,United States,?
+466,Google,2019,Jan,Superpod,Question and answer app,United States,"60,000,000.00"
+467,Google,2019,Feb,Alooma,"Big data, cloud migration",Israel,?
+468,Google,2019,Mar,Nightcorn,Video sharing,Germany,?
+469,Google,2019,Jun,Looker,"Big data, analytics",United States,?
+470,Google,2019,Jul,Elastifile,File storage,United States,?
+471,Google,2019,Oct,Socratic,Learning apps,United States,?
+472,Google,2019,Nov,CloudSimple,Cloud hosting,United States,?
+473,Google,2019,Dec,Typhoon Studios,Video game development,Canada,?
+474,Google,2020,Jan,AppSheet,Mobile app development,United States,?
+475,Google,2020,Jan,Pointy,Local retail inventory feeds,Ireland,"163,000,000.00"
+476,Google,2020,Feb,Cornerstone Technology B.V.,"Mainframe, cloud migration",Netherlands,?
+477,Google,2020,Jun,North,Smart glasses,Canada,"180,000,000.00"
+478,Google,2020,Aug,Stratozone,Cloud Assessment,United States,?
+479,Google,2020,Dec,Dataform,"Big data, analytics",United Kingdom,?
+480,Google,2020,Dec,Neverware,Chrome OS distribution,United States,?
+481,Google,2020,Dec,Actifio,"Backup, Disaster Recovery",United States,?
+482,Google,2021,Jan,Fitbit,Wearables,United States,?
+483,Google,2021,Feb,Provino,Cloud hardware,United States,?
+484,Google,2021,Apr,Dysonics,Audio hardware,United States,?
+485,Google,2021,Jul,Simsim,E-commerce,India,"100,000,000.00"
+486,Google,2021,Sep,Playspace,Collaboration tool,United States,?
+487,Google,2021,Oct,MuJoCo,Robotics simulator,United States,?
+488,Google,2022,Jan,Siemplify,Cybersecurity,Israel,"500,000,000.00"
+489,Google,2022,Mar,Mandiant,Cybersecurity,United States,"5,400,000,000.00"
+490,Google,2022,Mar,Raxium,AR Hardware,United States,"1,000,000,000.00"
+491,Google,2022,Apr,Vicarious,AI/Robotics software,United States,?
+492,Google,2022,Apr,MobiledgeX,Mobile Edge Computing,United States,?
+493,Google,2022,May,Forseeti,Cybersecurity software,Sweden,?
+494,Google,2022,Aug,Alter,Artificial intelligence,United States,"100,000.00"
+495,Google,2022,Sep,BreezoMeter,Air quality monitoring,Israel,?
+496,Google,2022,Oct,BrightBytes,Data & Analytics,United States,?
+497,Google,2022,Oct,Sound Life Sciences,Health monitoring,United States,?
+498,Google,2022,Dec,Open Source Robotics Corporation,Robotics software,United States,?
+499,Google,2023,Jun,Photomath,Artificial intelligence,Croatia,?
+500,Microsoft,1986,Jun,Dynamical Systems Research,Operating Systems,United States,"1,500,000.00"
+501,Microsoft,1987,Jul,"Forethought, Inc.",Computer software,United States,"14,000,000.00"
+502,Microsoft,1991,Mar,Consumers Software,Software,Canada,?
+503,Microsoft,1992,Jun,Fox Software,PC database software,United States,"174,000,000.00"
+504,Microsoft,1994,Feb,Softimage,Wholesale 3-D visualization software,Canada,"130,000,000.00"
+505,Microsoft,1994,Sep,Altamira Software,Software,United States,?
+506,Microsoft,1994,Nov,NextBase,Software,United Kingdom,?
+507,Microsoft,1994,Nov,One Tree Software,Software,United States,?
+508,Microsoft,1995,Feb,RenderMorphics,3D graphics hardware,United States,?
+509,Microsoft,1995,Jul,Network Managers,Systems design,United Kingdom,?
+510,Microsoft,1995,Oct,The Blue Ribbon SoundWorks,Software,United States,?
+511,Microsoft,1995,Nov,Netwise,Computer software,United States,?
+512,Microsoft,1995,Dec,Bruce Artwick Organization,Programming,United States,?
+513,Microsoft,1996,Jan,Vermeer Technologies,Software,United States,"133,000,000.00"
+514,Microsoft,1996,Mar,VGA-Animation Software Div,Software,Germany,?
+515,Microsoft,1996,Mar,Colusa Software,Software,United States,?
+516,Microsoft,1996,Apr,Exos,Video game controllers,United States,?
+517,Microsoft,1996,Apr,Aspect Software Engineering,Computer software,United States,"14,150,000.00"
+518,Microsoft,1996,Jun,eShop Inc.,Software,United States,"50,000,000.00"
+519,Microsoft,1996,Jun,Electric Gravity,Electronic games,United States,?
+520,Microsoft,1996,Nov,Panorama Software Sys-On-Line,Software,Canada,?
+521,Microsoft,1997,Feb,NetCarta,Internet software,United States,"20,000,000.00"
+522,Microsoft,1997,Mar,Interse,Internet software,United States,?
+523,Microsoft,1997,Apr,WebTV Networks,Internet service provider,United States,"425,000,000.00"
+524,Microsoft,1997,May,Dimension X,Java-based platforms,United States,?
+525,Microsoft,1997,Jun,Cooper & Peters,Programming,United States,?
+526,Microsoft,1997,Jun,LinkAge Software,Internet software development,Canada,?
+527,Microsoft,1997,Aug,VXtreme,Internet video software,United States,?
+528,Microsoft,1997,Dec,Hotmail,Internet software,United States,"500,000,000.00"
+529,Microsoft,1998,Feb,Flash Communications,Enterprise instant messaging software,United States,?
+530,Microsoft,1998,Apr,Firefly,Relationship management software,United States,"40,000,000.00"
+531,Microsoft,1998,Apr,MESA Group,Data sharing software,United States,?
+532,Microsoft,1998,Aug,Valence Research,Internet software,United States,?
+533,Microsoft,1998,Nov,LinkExchange,Internet advertising network,United States,"265,000,000.00"
+534,Microsoft,1999,Jan,FASA Interactive,Video games,United States,?
+535,Microsoft,1999,Mar,CompareNet,Shopping online,United States,?
+536,Microsoft,1999,Mar,Numinous Technologies,Software,United States,?
+537,Microsoft,1999,Apr,Access Software,Video games,United States,?
+538,Microsoft,1999,Apr,Interactive Objects-Digital,Web music software,United States,?
+539,Microsoft,1999,Apr,Jump Networks,Internet service provider,United States,?
+540,Microsoft,1999,Jun,ShadowFactor Software,Wholesale computer software,United States,?
+541,Microsoft,1999,Jun,Omnibrowse,Internet software,United States,?
+542,Microsoft,1999,Jun,Intrinsa,Defect detection software,United States,"58,900,000.00"
+543,Microsoft,1999,Jul,Sendit,Application software,Sweden,"125,420,000.00"
+544,Microsoft,1999,Jul,Zoomit,Encryption software,Canada,?
+545,Microsoft,1999,Jul,STNC,Community software,United Kingdom,?
+546,Microsoft,1999,Sep,Softway Systems,Computer programming,United States,?
+547,Microsoft,1999,Oct,Entropic,Software,United States,?
+548,Microsoft,2000,Jan,Visio Corporation,Wholesale drawing software,United States,"1,375,000,000.00"
+549,Microsoft,2000,Feb,Peach Networks,Digital TV services,Israel,?
+550,Microsoft,2000,Mar,Travelscape,Internet service provider,United States,"89,750,000.00"
+551,Microsoft,2000,Apr,Titus Communications,Cable television,United States,"944,800,000.00"
+552,Microsoft,2000,Jun,Bungie,Video games,United States,?
+553,Microsoft,2000,Jul,NetGames,Software,United States,?
+554,Microsoft,2000,Sep,MongoMusic,Online music search engine,United States,"65,000,000.00"
+555,Microsoft,2000,Sep,Pacific Microsonics,Digital audio technology,United States,?
+556,Microsoft,2000,Dec,Digital Anvil,Video games,United States,?
+557,Microsoft,2001,Mar,Vacationspot,Internet service provider,United States,"70,850,000.00"
+558,Microsoft,2001,Apr,Great Plains Software,Business management software,United States,"939,884,000.00"
+559,Microsoft,2001,May,Intellisol International,Software,Canada,?
+560,Microsoft,2001,May,Ensemble Studios,Video games,United States,?
+561,Microsoft,2001,May,NCompass Labs,Internet software,Canada,"36,000,000.00"
+562,Microsoft,2001,Jun,Maximal Innovative Intelligence,Software,United States,"20,000,000.00"
+563,Microsoft,2001,Jul,Yupi,Online Spanish portal,Israel,?
+564,Microsoft,2002,Mar,Classic Custom Vacations,Travel agency,United States,"78,000,000.00"
+565,Microsoft,2002,May,Sales Management Systems,Software,United States,?
+566,Microsoft,2002,Jul,Navision,Software programming,Denmark,"1,330,000,000.00"
+567,Microsoft,2002,Jul,Mobilocity,Computer consulting,United States,?
+568,Microsoft,2002,Sep,XDegrees,Security software,United States,?
+569,Microsoft,2002,Sep,Rare,Video games,United Kingdom,"375,000,000.00"
+570,Microsoft,2002,Dec,Vicinity,Online enterprise location,United States,"95,849,000.00"
+571,Microsoft,2003,Feb,Connectix,Software,United States,?
+572,Microsoft,2003,Mar,DCG,Internet software,Australia,?
+573,Microsoft,2003,Apr,PlaceWare,Web conferencing,United States,"200,000,000.00"
+574,Microsoft,2003,May,G.A. Sullivan,Information technology,United States,?
+575,Microsoft,2003,Jun,GeCAD Software,Antivirus technology,Romania,?
+576,Microsoft,2003,Aug,3DO Co-High Heat Baseball,Software,United States,"450,000.00"
+577,Microsoft,2004,Apr,Encore Bus Solutions-IP Asts,IP assets,United States,?
+578,Microsoft,2004,Apr,ActiveViews,Reporting systems,United States,?
+579,Microsoft,2004,Jul,Lookout Software,Personal search tool,United States,?
+580,Microsoft,2004,Dec,GIANT Company Software,Anti-spyware,United States,?
+581,Microsoft,2005,Mar,entegrate,Software,United States,?
+582,Microsoft,2005,Apr,Groove Networks,Community software,United States,?
+583,Microsoft,2005,May,MessageCast,Messaging,United States,"7,000,000.00"
+584,Microsoft,2005,May,Tsinghua-Shenxun-Cert Asts,Certain assets,China,"15,000,000.00"
+585,Microsoft,2005,Jun,Sybari Software,Software,United States,?
+586,Microsoft,2005,Aug,Teleo,VoIP,United States,?
+587,Microsoft,2005,Aug,FrontBridge Technologies,Email protection,United States,?
+588,Microsoft,2005,Sep,Alacris,Certificate management software,United States,?
+589,Microsoft,2005,Nov,media-streams.com,Software,Switzerland,?
+590,Microsoft,2005,Nov,5th Finger,Mobile,Australia,"3,153,000.00"
+591,Microsoft,2006,Jan,UMT-Software and IP Assets,Software,United States,?
+592,Microsoft,2006,Feb,MotionBridge,Search,France,"17,858,000.00"
+593,Microsoft,2006,Feb,Seadragon Software,Software,United States,
+594,Microsoft,2006,Mar,Apptimum,Software,United States,
+595,Microsoft,2006,Mar,Onfolio,Internet software,United States,
+596,Microsoft,2006,Apr,Lionhead Studios,Video games,United Kingdom,
+597,Microsoft,2006,Apr,AssetMetrix,Enterprise asset intelligence (SaaS),Canada,"18,000,000.00"
+598,Microsoft,2006,May,Massive Incorporated,Video game advertising,United States,?
+599,Microsoft,2006,May,Vexcel,Mapping software,United States,?
+600,Microsoft,2006,May,DeepMetrix,Web log analysis,United States,?
+601,Microsoft,2006,Jun,ProClarity,Analysis software,United States,?
+602,Microsoft,2006,Jun,iView Multimedia,Digital asset management,United Kingdom,?
+603,Microsoft,2006,Jul,Softricity,Application virtualization software,United States,?
+604,Microsoft,2006,Jul,Winternals Software,Software,United States,?
+605,Microsoft,2006,Jul,Whale Communications,Applications,Israel,?
+606,Microsoft,2006,Sep,Gteko,Applications,Israel,?
+607,Microsoft,2006,Oct,DesktopStandard,Applications,United States,?
+608,Microsoft,2006,Oct,Colloquis,Natural language software,United States,?
+609,Microsoft,2007,Mar,Medstory,Internet search engine,United States,?
+610,Microsoft,2007,Mar,devBiz Business Solutions,Software tools,United States,?
+611,Microsoft,2007,May,ScreenTonic,Advertising and marketing,France,?
+612,Microsoft,2007,May,Tellme Networks,Mobile phone software,United States,?
+613,Microsoft,2007,May,SoftArtisans,Business Intelligence software,United States,?
+614,Microsoft,2007,Jun,Engyro,Information technology,United States,?
+615,Microsoft,2007,Jun,Stratature,Master data management,United States,?
+616,Microsoft,2007,Jun,Savvis Inc-Data Centers,Networking,United States,"200,000,000.00"
+617,Microsoft,2007,Aug,AdECN,Ad Exchange,United States,"45,000,000.00"
+618,Microsoft,2007,Aug,aQuantive,Digital marketing,United States,"6,333,000,000.00"
+619,Microsoft,2007,Oct,Jellyfish.com,Search engine,United States,?
+620,Microsoft,2007,Oct,Parlano,Enterprise messaging software,United States,?
+621,Microsoft,2007,Oct,Global Care Solutions-Assets,Assets,Thailand,?
+622,Microsoft,2007,Nov,HOB Business Solutions,Information technology,Denmark,?
+623,Microsoft,2007,Nov,Musiwave,Mobile music entertainment,France,?
+624,Microsoft,2007,Dec,Multimap.com,Mapping,United Kingdom,?
+625,Microsoft,2008,Jan,Calista Technologies,Software,United States,?
+626,Microsoft,2008,Feb,Caligari Corporation,Software,United States,?
+627,Microsoft,2008,Feb,YaData,Software,Israel,?
+628,Microsoft,2008,Mar,Rapt,Advertising yield management software,United States,?
+629,Microsoft,2008,Mar,Komoku,Rootkit security software,United States,"5,000,000.00"
+630,Microsoft,2008,Mar,90 Degree Software,Business intelligence software,Canada,?
+631,Microsoft,2008,Apr,Farecast,Online search software,United States,"75,000,000.00"
+632,Microsoft,2008,Apr,Danger,Mobile Internet software,United States,"500,000,000.00"
+633,Microsoft,2008,Apr,Fast Search & Transfer,Enterprise search[clarification needed],Norway,"1,191,000,000.00"
+634,Microsoft,2008,May,Kidaro,Software,United States,?
+635,Microsoft,2008,Jun,Quadreon,Software,Belgium,?
+636,Microsoft,2008,Jun,Navic Networks,Management software,United States,?
+637,Microsoft,2008,Jun,Mobicomp,Mobile applications,Portugal,?
+638,Microsoft,2008,Aug,Powerset,Semantic Search,United States,?
+639,Microsoft,2008,Sep,DATAllegro,Data software,United States,?
+640,Microsoft,2008,Sep,Greenfield Online,Search and e-commerce services,United States,"486,000,000.00"
+641,Microsoft,2009,Mar,3DV Systems,"Developer of ZCam, a time-of-flight camera",Israel,"35,000,000.00"
+642,Microsoft,2009,May,BigPark,Video games interactive online gaming,Canada,?
+643,Microsoft,2009,Jun,Rosetta Biosoftware,Bioinformatics solutions for life science research,United States,?
+644,Microsoft,2009,Sep,Interactive Supercomputing,Software,United States,?
+645,Microsoft,2009,Dec,Opalis Software,Software,Canada,?
+646,Microsoft,2010,Feb,"Sentillion, Inc.",Software for the healthcare industry,United States,?
+647,Microsoft,2010,Oct,"AVIcode, Inc.",.Net monitoring technology,United States,?
+648,Microsoft,2010,Oct,"Canesta, Inc.",3D sensing technology,United States,?
+649,Microsoft,2011,May,Skype Technologies,Telecommunications,Luxembourg,"8,500,000,000.00"
+650,Microsoft,2011,Jun,Prodiance,Software,United States,?
+651,Microsoft,2011,Oct,Twisted Pixel Games,Video games,United States,?
+652,Microsoft,2011,Nov,Videosurf,Video search,United States,"100,000,000.00"
+653,Microsoft,2012,Jun,Press Play,Video games,Denmark,?
+654,Microsoft,2012,Jun,Yammer,Social networking,United States,"1,200,000,000.00"
+655,Microsoft,2012,Jul,Perceptive Pixel,Multi touch hardware,United States,?
+656,Microsoft,2012,Oct,PhoneFactor,Two-factor authentication system,United States,?
+657,Microsoft,2012,Oct,StorSimple,Cloud-storage appliance vendor,United States,?
+658,Microsoft,2012,Oct,MarketingPilot,Marketing automation firm,United States,?
+659,Microsoft,2013,Jan,id8 Group R2 Studios,Home automation,United States,?
+660,Microsoft,2013,Feb,Pando Networks,Peer-to-peer (P2P) media distribution,United States,?
+661,Microsoft,2013,Mar,MetricsHub,Cloud monitoring,United States,?
+662,Microsoft,2013,Mar,Netbreeze,Social analytics,Switzerland,?
+663,Microsoft,2013,Jun,InRelease,Release management,Canada,?
+664,Microsoft,2013,Sep,Nokia mobile phones unit,"Mobile phones, smartphones",Finland,"7,200,000,000.00"
+665,Microsoft,2013,Oct,HLW Software,RDP applications,Austria,?
+666,Microsoft,2013,Oct,Apiphany,API management,United States,?
+667,Microsoft,2014,Jan,Parature,Customer service software,United States,"100,000,000.00"
+668,Microsoft,2014,May,GreenButton,Cloud computing,New Zealand,?
+669,Microsoft,2014,May,Capptain,(Mobile) application development,France,?
+670,Microsoft,2014,Jul,SyntaxTree,Developer tools,France,?
+671,Microsoft,2014,Jul,InMage,Disaster recovery solutions,India,?
+672,Microsoft,2014,Aug,Inception Mobile Inc.,Software,Canada,?
+673,Microsoft,2014,Nov,Mojang,Video games,Sweden,"2,500,000,000.00"
+674,Microsoft,2014,Nov,Aorato,Enterprise security & machine learning,Israel,?
+675,Microsoft,2014,Dec,Acompli,Mobile email apps,United States,?
+676,Microsoft,2014,Dec,HockeyApp,Mobile beta distribution & crash analytics,Germany,?
+677,Microsoft,2015,Jan,Equivio,Text analytics service,Israel,?
+678,Microsoft,2015,Jan,Revolution Analytics,Statistical computing and predictive analytics,United States,?
+679,Microsoft,2015,Feb,"Sunrise Atelier, Inc.",Sunrise Calendar applications,United States,"100,000,000.00"
+680,Microsoft,2015,Feb,N-trig,Styli and pen input hardware and software,Israel,"200,000,000.00"
+681,Microsoft,2015,Mar,LiveLoop,PowerPoint collaboration,United States,?
+682,Microsoft,2015,Apr,"Datazen Software, Inc.",Mobile business intelligence & data visualization,Canada,?
+683,Microsoft,2015,Jun,6 Wunderkinder GmbH,Wunderlist to-do list applications,Germany,?
+684,Microsoft,2015,Jun,BlueStripe Software,Application management,United States,?
+685,Microsoft,2015,Jul,FieldOne Systems LLC,Enterprise field service,United States,?
+686,Microsoft,2015,Jul,Adallom,Cloud security,Israel,"320,000,000.00"
+687,Microsoft,2015,Aug,"Incent Games, LLC",Sales-gamification,United States,?
+688,Microsoft,2015,Sep,"VoloMetrix, Inc.",Organisational analytics,United States,?
+689,Microsoft,2015,Sep,"Double Labs, Inc.",Mobile lock screen software,United States,?
+690,Microsoft,2015,Sep,Adxstudio Inc.,Web portal and application lifecycle management solutions,Canada,?
+691,Microsoft,2015,Oct,Havok,Video game physics engine,Ireland,?
+692,Microsoft,2015,Nov,"Mobile Data Labs, Inc.","MileIQ, a mileage tracking application",United States,?
+693,Microsoft,2015,Nov,Secure Islands Technologies Ltd.,Data protection,Israel,?
+694,Microsoft,2015,Dec,Metanautix,Big data analytics,United States,?
+695,Microsoft,2015,Dec,"Talko, Inc.",Mobile communications,United States,?
+696,Microsoft,2016,Jab,Event Zero,VoIP Products,Australia,?
+697,Microsoft,2016,Jan,Teacher Gaming LLC,Education software,Finland,?
+698,Microsoft,2016,Feb,SwiftKey,Virtual keyboard,United Kingdom,"250,000,000.00"
+699,Microsoft,2016,Feb,Groove,Music discovery,Canada,?
+700,Microsoft,2016,Feb,Xamarin,Mobile application development,United States,?
+701,Microsoft,2016,May,Solair,Internet of Things platform,Italy,?
+702,Microsoft,2016,Jun,Wand Labs,Conversation as a service,United States,?
+703,Microsoft,2016,Aug,Beam,Video game streaming,United States,?
+704,Microsoft,2016,Aug,Genee,AI-powered scheduling assistant service,United States,?
+705,Microsoft,2016,Dec,LinkedIn,Professional social network,United States,"26,200,000,000.00"
+706,Microsoft,2017,Jan,Maluuba,Artificial intelligence,Canada,"140,000,000.00"
+707,Microsoft,2017,Jan,Simplygon,3D graphics optimization,Sweden,?
+708,Microsoft,2017,Apr,Deis,Container management,United States,?
+709,Microsoft,2017,Apr,Intentional Software,Intentional programming,United States,?
+710,Microsoft,2017,Jun,Hexadite,Cybersecurity,Israel,"100,000,000.00"
+711,Microsoft,2017,Jun,Cloudyn,Cloud business management,Israel,"50,000,000.00"
+712,Microsoft,2017,Aug,Cycle Computing,Cloud HPC,United States,?
+713,Microsoft,2017,Oct,AltspaceVR,Virtual reality,United States,?
+714,Microsoft,2017,Nov,SWNG,Cinemagraphic photo app,United States,?
+715,Microsoft,2018,Jan,Avere Systems,Data management,United States,?
+716,Microsoft,2018,Jan,Playfab,Gaming backend service,United States,?
+717,Microsoft,2018,May,Semantic Machines,Conversational AI,United States,"400,000,000.00"
+718,Microsoft,2018,Jun,Ninja Theory,Video games,United Kingdom,"117,000,000.00"
+719,Microsoft,2018,Jun,Undead Labs,Video games,United States,?
+720,Microsoft,2018,Jun,Compulsion Games,Video games,Canada,?
+721,Microsoft,2018,Jun,Playground Games,Video games,United Kingdom,?
+722,Microsoft,2018,Jun,Flipgrid,"Education, video discussion platform",United States,?
+723,Microsoft,2018,Jun,Bonsai,Industrial AI platform,United States,?
+724,Microsoft,2018,Sep,Lobe,Artificial intelligence,United States,?
+725,Microsoft,2018,Oct,Glint,Employee engagement,United States,"400,000,000.00"
+726,Microsoft,2018,Oct,GitHub,Software development and version control platform,United States,"7,500,000,000.00"
+727,Microsoft,2018,Nov,inXile Entertainment,Video games,United States,?
+728,Microsoft,2018,Nov,Obsidian Entertainment,Video games,United States,?
+729,Microsoft,2018,Nov,XOXCO,Conversational AI,United States,?
+730,Microsoft,2018,Nov,FSLogix,Application provisioning and virtualization,United States,?
+731,Microsoft,2018,Nov,Spectrum,Social networks for design and development,United States,?
+732,Microsoft,2019,Jan,Citus Data,Database management,United States,?
+733,Microsoft,2019,Feb,DataSense,Database management,United States,?
+734,Microsoft,2019,Apr,Express Logic,Real-time operating systems,United States,?
+735,Microsoft,2019,May,Dependabot,Open source tool,United Kingdom,?
+736,Microsoft,2019,May,Drawbridge,AI & machine learning technology,United States,?
+737,Microsoft,2019,Jun,Double Fine Productions,Video games,United States,?
+738,Microsoft,2019,Jul,BlueTalon,Data privacy and governance service,United States,?
+739,Microsoft,2019,Aug,PromoteIQ,Retail e-commerce improvement,United States,?
+740,Microsoft,2019,Aug,jClarity,Java software optimization,United States,?
+741,Microsoft,2019,Sep,Movere,Cloud migration,United States,?
+742,Microsoft,2019,Sep,Semmle,Code analysis tool,United States,?
+743,Microsoft,2019,Oct,Mover,File migration,Canada,?
+744,Microsoft,2019,Mar,npm,Software and JavaScript modules,United States,?
+745,Microsoft,2020,Mar,Affirmed Networks,5G Networking,United States,"1,350,000,000.00"
+746,Microsoft,2020,May,Metaswitch Networks,5G Networking,United Kingdom,?
+747,Microsoft,2020,May,Softomotive,Robotic Process Automation,United Kingdom,?
+748,Microsoft,2020,Jun,ADRM Software,data modeling startup,United States,?
+749,Microsoft,2020,Jun,CyberX,IoT/OT Security,United States,"165,000,000.00"
+750,Microsoft,2020,Jul,Orions Systems,Dynamics 365 - SMart vision,United States,?
+751,Microsoft,2020,Sep,ZeniMax Media,Video games,United States,"8,100,000,000.00"
+752,Microsoft,2020,Dec,Smash.gg,Esports,United States,?
+753,Microsoft,2021,Mar,The Marsden Group,Tech in complex industrial environments,United States,?
+754,Microsoft,2021,Apr,Nuance Communications,Speech synthesis and speech recognition,United States,"19,700,000,000.00"
+755,,,,,,United States,?
+756,Microsoft,2021,Jun,ReFirm Labs,IoT security and embedded devices,United States,?
+757,Microsoft,2021,Jun,AT&T Technology Network Cloud,5G Networking,United States,?
+758,Microsoft,2021,Jul,RiskIQ,Cybersecurity ransomware,United States,"500,000,000.00"
+759,Microsoft,2021,Jul,CloudKnox,Cloud infrastructure entitlement management security,United States,?
+760,Microsoft,2021,Jul,Suplari,Software,United States,?
+761,Microsoft,2021,Aug,Peer5,Peer 2 Peer Network Technology,United States,?
+762,Microsoft,2021,Sep,Clipchamp,Video-editing software,United States,?
+763,Microsoft,2021,Sep,TakeLessons,Education,United States,?
+764,Microsoft,2021,Oct,Ally.io,Productivity,United States,?
+765,Microsoft,2021,Oct,Clear Software,Software,United States,?
+766,Microsoft,2021,Oct,Two Hat,Content moderation,Canada,?
+767,Microsoft,2021,Dec,Xandr,Digital media,United States,"1,000,000,000.00"
+768,Microsoft,2022,Jan,Activision Blizzard,Video games,United States,"75,400,000,000.00"
+769,Microsoft,2022,Feb,Oribi,Marketing analytics,Israel,?
+770,Microsoft,2022,Mar,Minit,Process mining software,Netherlands,?
+771,Microsoft,2022,Jun,Miburo,Cyberthreat analysis and research specializing,United States,?
+772,Microsoft,2022,Dec,Lumensity,Optical networking,United Kingdom,?
+773,Microsoft,2023,Jan,Fungible,composable infrastructure,United States,?
+774,Microsoft,2023,Apr,Nemesys Games,Video games,Hungary,?
+775,Meta,2005,Aug,facebook.com domain name,?,United States,"200,000.00"
+776,Meta,2007,Jul,Parakey,?,United States,?
+777,Meta,2008,Jun,ConnectU,?,United States,"31,000,000.00"
+778,Meta,2009,Aug,FriendFeed,?,United States,"47,500,000.00"
+779,Meta,2010,Feb,Octazen,?,Malaysia,?
+780,Meta,2010,Mar,Divvyshot,?,United States,?
+781,Meta,2010,May,Friendster patents,?,United States,"40,000,000.00"
+782,Meta,2010,May,ShareGrove,?,United States,?
+783,Meta,2010,Jul,Zenbe,?,United States,?
+784,Meta,2010,Jul,Nextstop,?,United States,"2,500,000.00"
+785,Meta,2010,Aug,Chai Labs,?,United States,"10,000,000.00"
+786,Meta,2010,Aug,Hot Potato,?,United States,"10,000,000.00"
+787,Meta,2010,Oct,Drop.io,?,United States,"10,000,000.00"
+788,Meta,2010,Nov,FB.com domain name,?,United States,"8,500,000.00"
+789,Meta,2011,Jan,Rel8tion,?,United States,?
+790,Meta,2011,Mar,Beluga,?,United States,?
+791,Meta,2011,Mar,Snaptu,?,Israel,"70,000,000.00"
+792,Meta,2011,Mar,RecRec,?,United States,?
+793,Meta,2011,Apr,DayTum,?,United States,?
+794,Meta,2011,Jun,Sofa,?,Netherlands,?
+795,Meta,2011,Jun,MailRank,?,United States,?
+796,Meta,2011,Aug,Push Pop Press,?,United States,?
+797,Meta,2011,Oct,Friend.ly,?,United States,?
+798,Meta,2011,Nov,Strobe,?,United States,?
+799,Meta,2011,Dec,Gowalla,?,United States,?
+800,Meta,2012,Feb,Caffeinatedmind,?,United States,?
+801,Meta,2012,Apr,Instagram,?,United States,"1,000,000,000.00"
+802,Meta,2012,Apr,Tagtile,?,United States,?
+803,Meta,2012,May,Glancee,?,United States,?
+804,Meta,2012,May,Lightbox.com,?,United Kingdom,?
+805,Meta,2012,May,Karma,?,United States,?
+806,Meta,2012,Jun,Face.com,?,Israel,"100,000,000.00"
+807,Meta,2012,Jul,Spool,?,United States,?
+808,Meta,2012,Jul,Acrylic Software,?,Canada,?
+809,Meta,2012,Aug,Threadsy,?,United States,?
+810,Meta,2013,Feb,Atlas Solutions,?,United States,"100,000,000.00"
+811,Meta,2013,Mar,osmeta,?,United States,
+812,Meta,2013,Mar,Storylane (Mixtent),?,United States,?
+813,Meta,2013,Mar,Hot Studio,?,United States,?
+814,Meta,2013,Apr,Spaceport,?,United States,?
+815,Meta,2013,Apr,Parse,?,United States,"85,000,000.00"
+816,Meta,2013,Jul,Monoidics,?,United Kingdom,?
+817,Meta,2013,Aug,Jibbigo,?,United States,?
+818,Meta,2013,Oct,Onavo,?,Israel,?
+819,Meta,2013,Dec,SportStream,?,United States,?
+820,Meta,2014,Jan,Little Eye Labs,?,India,"15,000,000.00"
+821,Meta,2014,Jan,Branch,?,United States,"15,000,000.00"
+822,Meta,2014,Feb,WhatsApp,?,United States,"19,000,000,000.00"
+823,Meta,2014,Mar,Oculus VR,?,United States,"2,000,000,000.00"
+824,Meta,2014,Mar,Ascenta,?,United Kingdom,"20,000,000.00"
+825,Meta,2014,Apr,Salorix,?,United States,?
+826,Meta,2014,Apr,ProtoGeo Oy,?,Finland,?
+827,Meta,2014,Aug,PrivateCore,?,United States,?
+828,Meta,2014,Aug,LiveRail,?,United States,?
+829,Meta,2014,Aug,WaveGroup Sound,?,United States,?
+830,Meta,2015,Jan,Wit.ai,?,United States,?
+831,Meta,2015,Jan,Quickfire Networks,?,United States,?
+832,Meta,2015,Mar,"TheFind, Inc.",?,United States,?
+833,Meta,2015,May,Surreal Vision,?,United Kingdom,?
+834,Meta,2015,Oct,Endaga,?,United States,?
+835,Meta,2015,Jul,Pebbles,?,Ireland,"60,000,000.00"
+836,Meta,2016,Mar,MSQRD (Masquerade),?,Belarus,?
+837,Meta,2016,May,Two Big Ears,?,United Kingdom,?
+838,Meta,2016,Sep,Nascent Objects,?,United States,?
+839,Meta,2016,Oct,Infiniled,?,Ireland,?
+840,Meta,2016,Nov,CrowdTangle,?,United States,?
+841,Meta,2016,Nov,Faciometrics,?,United States,?
+842,Meta,2016,Nov,Zurich Eye,?,?,?
+843,Meta,2017,Jul,Ozlo,?,United States,?
+844,Meta,2017,Aug,Fayteq AG,?,?,?
+845,Meta,2017,Oct,tbh,?,United States,?
+846,Meta,2018,Jan,Confirm,?,United States,?
+847,Meta,2018,Jul,Bloomsbury AI,?,United Kingdom,"30,000,000.00"
+848,Meta,2018,Jul,Redkix,?,Israel,"100,000,000.00"
+849,Meta,2018,Aug,Vidpresso,?,United States,?
+850,Meta,2018,Nov,Dreambit,?,United States,?
+851,Meta,2019,Feb,Chainspace,?,United Kingdom,?
+852,Meta,2019,Feb,GrokStyle,?,United States,?
+853,Meta,2019,Sep,Servicefriend,?,Israel,?
+854,Meta,2019,Sep,CTRL-labs,?,United States,?
+855,Meta,2019,Sep,Packagd,?,United States,?
+856,Meta,2019,Nov,Beat Games,?,Czech Republic,?
+857,Meta,2019,Dec,PlayGiga,?,Spain,"70,000,000.00"
+858,Meta,2020,Feb,Sanzaru Games,?,United States,?
+859,Meta,2020,Feb,Scape Technologies,?,United Kingdom,"40,000,000.00"
+860,Meta,2020,May,Giphy,?,United States,"400,000,000.00"
+861,Meta,2020,Jun,Mapillary,?,Sweden,?
+862,Meta,2020,Jun,Ready at Dawn,?,United States,?
+863,Meta,2020,Sep,Lemnis Technologies,?,Singapore,?
+864,Meta,2020,Nov,Kustomer,?,United States,"1,000,000,000.00"
+865,Meta,2021,Apr,Downpour Interactive,?,United States,?
+866,Meta,2021,Jun,Unit 2 Games,?,United Kingdom,?
+867,Meta,2021,Jun,BigBox VR,?,United States,?
+868,Meta,2021,Oct,AI.Reverie,?,United States,?
+869,Meta,2021,Oct,Within,?,United States,?
+870,Meta,2021,Nov,Twisted Pixel Games,?,United States,?
+871,Meta,2022,Apr,Presize,?,Germany,"100,000,000.00"
+872,Meta,2022,Sep,Lofelt,?,Germany,?
+873,Meta,2022,Oct,Armature Studio,?,United States,?
+874,Meta,2022,Oct,Camouflaj,?,United States,?
+875,Netflix,2017,Aug,Millarworld,?,United States,?
+876,Netflix,2019,May,StoryBots,?,United States,?
+877,Netflix,2021,Sep,The Roald Dahl Story Company,?,United Kingdom,?
+878,Netflix,2021,Nov,Scanline VFX,?,Germany,?
+879,Netflix,2022,Jul,Animal Logic,?,Australia,?
+880,Netflix,2021,Sep,Night School Studio LLC,?,United States,?
+881,Netflix,2022,Mar,Next Games,?,Finland,"65,000,000.00"
+882,Netflix,2022,Apr,Boss Fight,?,United States,?
+883,Netflix,2022,Oct,Spry Fox,?,United States,?
+884,Netflix,2018,Oct,Albuquerque Studios,?,United States,"30,000,000.00"
+885,Netflix,2020,May,Grauman’s Egyptian Theatre,?,United States,?

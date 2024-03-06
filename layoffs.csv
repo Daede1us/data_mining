@@ -1,0 +1,28 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised
+Google,SF Bay Area,Consumer,1000,0.548303,1/10/2024,Post-IPO,United States,26000000
+Amazon,Seattle,Retail,?,?,1/10/2024,Post-IPO,United States,108000000
+Amazon,Seattle,Retail,?,?,11/17/2023,Post-IPO,United States,108000000
+Amazon,Seattle,Retail,180,0.012,11/13/2023,Post-IPO,United States,108000000
+Amazon,Seattle,Retail,?,?,11/8/2023,Post-IPO,United States,108000000
+Google,SF Bay Area,Consumer,?,?,11/8/2023,Post-IPO,United States,26000000
+Google,SF Bay Area,Consumer,40,?,10/18/2023,Post-IPO,United States,26000000
+Meta,SF Bay Area,Consumer,?,?,10/4/2023,Post-IPO,United States,26000000000
+Google,SF Bay Area,Consumer,75,?,9/13/2023,Post-IPO,United States,26000000
+Microsoft,Seattle,Other,1000,?,7/18/2023,Post-IPO,United States,1000000
+Amazon,Seattle,Retail,80,,7/13/2023,Post-IPO,United States,108000000
+Microsoft,Seattle,Other,158,?,5/10/2023,Post-IPO,United States,1000000
+Apple,SF Bay Area,Retail,?,?,4/3/2023,Post-IPO,United States,6200000000
+Amazon,Seattle,Retail,9000,?,3/20/2023,Post-IPO,United States,108000000
+Meta,SF Bay Area,Consumer,10000,?,3/14/2023,Post-IPO,United States,26000000000
+Google,SF Bay Area,Consumer,12000,0.06,1/20/2023,Post-IPO,United States,26000000
+Microsoft,Seattle,Other,10000,0.05,1/18/2023,Post-IPO,United States,1000000
+Amazon,Seattle,Retail,8000,0.02,1/4/2023,Post-IPO,United States,108000000
+Amazon,Seattle,Retail,10000,0.03,11/16/2022,Post-IPO,United States,108000000
+Meta,SF Bay Area,Consumer,11000,0.13,11/9/2022,Post-IPO,United States,26000000000
+Amazon,Seattle,Retail,150,?,10/28/2022,Post-IPO,United States,108000000
+Microsoft,Seattle,Other,?,?,10/17/2022,Post-IPO,United States,1000000
+Netflix,SF Bay Area,Media,30,?,9/14/2022,Post-IPO,United States,1.219E+11
+Microsoft,Seattle,Other,?,?,7/12/2022,Post-IPO,United States,1000000
+Netflix,SF Bay Area,Media,300,0.03,6/23/2022,Post-IPO,United States,1.219E+11
+Netflix,SF Bay Area,Media,150,0.01,5/17/2022,Post-IPO,United States,1.219E+11
+Netflix,SF Bay Area,Media,25,?,4/28/2022,Post-IPO,United States,1.219E+11
