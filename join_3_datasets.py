@@ -15,4 +15,4 @@ merged_df.to_csv("out.csv", index=False)
 df_out = pd.read_csv('out.csv')
 # Filter rows where the year is not between 1988 and 2017
 df_out = df_out[~df_out['Acquisition Year'].astype(int).between(1988, 2017)]
-df_out.to_csv('out2.csv', index=False)
+df_out.to_csv('final.csv', index=False)
